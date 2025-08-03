@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "name": "H Tipi İskele",
+    "price": 1250.00,
+    "image": "/images/kalip.jpg",
+    "description": "Yüksek taşıma kapasitesine sahip galvanizli H tipi iskele."
+  },
+  {
+    "id": 2,
+    "name": "U Başlık",
+    "price": 85.00,
+    "image": "/images/kalip.jpg",
+    "description": "Düşey dikme üzerine konularak kalıp taşıma işlemini kolaylaştırır."
+  },
+  {
+    "id": 3,
+    "name": "Teleskopik Direk",
+    "price": 430.00,
+    "image": "/images/kalip.jpg",
+    "description": "Beton dökümü sırasında yük taşıma görevini üstlenen taşıyıcı direk."
+  },
+  {
+    "id": 4,
+    "name": "Ahşap Plywood",
+    "price": 599.00,
+       "image": "/images/kalip.jpg",
+    "description": "Beton kalıplarında kullanılan, çok katmanlı suya dayanıklı kontrplak."
+  },
+  {
+    "id": 5,
+    "name": "İksa Ayağı",
+    "price": 310.00,
+    "image": "/images/kalip.jpg",
+    "description": "Kalıpların düşey doğrultuda sabitlenmesini sağlar."
+  },
+  {
+    "id": 6,
+    "name": "Kalıp Yağı",
+    "price": 145.00,
+    "image": "/images/kalip.jpg",
+    "description": "Betonun kalıptan kolayca ayrılmasını sağlar."
+  },
+  {
+    "id": 7,
+    "name": "Dikme Kilidi",
+    "price": 42.00,
+    "image": "/images/kalip.jpg",
+    "description": "İskele dikmeleri arasında bağlantı kuran güvenlik elemanı."
+  },
+  {
+    "id": 8,
+    "name": "Travers (Taşıyıcı Profil)",
+    "price": 280.00,
+    "image": "/images/kalip.jpg",
+    "description": "Yatay kalıp yükünü taşıyan metal profil."
+  },
+  {
+    "id": 9,
+    "name": "Kalıp Bağlantı Takozu",
+    "price": 19.00,
+    "image": "/images/kalip.jpg",
+    "description": "İskele ve kalıp arasında bağlantı sağlar."
+  },
+  {
+    "id": 10,
+    "name": "Tripod",
+    "price": 160.00,
+    "image": "/images/kalip.jpg",
+    "description": "Teleskopik direkleri dengede tutmak için kullanılır."
+  },
+  {
+    "id": 11,
+    "name": "Kalıp Paneli",
+    "price": 870.00,
+    "image": "/images/kalip.jpg",
+    "description": "Beton yüzeyini oluşturmak için kullanılan düz yüzeyli panel."
+  },
+  {
+    "id": 12,
+    "name": "Çektirme (Kelepçe)",
+    "price": 24.00,
+    "image": "/images/kalip.jpg",
+    "description": "İskele bağlantılarının sağlamlaştırılmasını sağlar."
+  },
+  {
+    "id": 13,
+    "name": "Takviyeli Plywood",
+    "price": 675.00,
+    "image": "/images/kalip.jpg",
+    "description": "Daha uzun ömürlü ve yüksek dayanıklı plywood türü."
+  },
+  {
+    "id": 14,
+    "name": "Düz Başlık",
+    "price": 80.00,
+    "image": "/images/kalip.jpg",
+    "description": "Teleskopik direk üzerine yerleştirilen taşıyıcı başlık."
+  },
+  {
+    "id": 15,
+    "name": "Yatay Bağlantı Elemanı",
+    "price": 38.00,
+    "image": "/images/kalip.jpg",
+    "description": "İskele sisteminde yatay bağlantı sağlar."
+  },
+  {
+    "id": 16,
+    "name": "İnşaat Çivisi (10 kg)",
+    "price": 195.00,
+    "image": "/images/kalip.jpg",
+    "description": "Kalıp montajı sırasında kullanılan dayanıklı çivi."
+  },
+  {
+    "id": 17,
+    "name": "Köşe Takozu",
+    "price": 22.00,
+        "image": "/images/kalip.jpg",
+    "description": "Ahşap kalıplarda köşelerin sabitlenmesini sağlar."
+  },
+  {
+    "id": 18,
+    "name": "Yükseklik Ayar Somunu",
+    "price": 12.00,
+     "image": "/images/kalip.jpg",
+    "description": "Teleskopik direğin yüksekliğini hassas şekilde ayarlamak için."
+  },
+  {
+    "id": 19,
+    "name": "Ayarlı Ayak",
+    "price": 210.00,
+    "image": "/images/kalip.jpg",
+    "description": "Zemin dengesizliğini telafi etmek için kullanılır."
+  },
+  {
+    "id": 20,
+    "name": "Çift Taraflı Kalıp Paneli",
+    "price": 950.00,
+    "image": "/images/kalip.jpg",
+    "description": "İki taraflı yüzey dökümüne uygun, yüksek dayanımlı panel."
+  }
+]
