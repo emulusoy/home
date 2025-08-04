@@ -1,4 +1,4 @@
-// home/src/app/layout.tsx
+
 import './globals.css';
 import React from 'react';
 
