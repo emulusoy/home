@@ -1,142 +1,182 @@
 [
   {
     "id": 1,
-    "name": "H Tipi İskele",
-    "price": 1250.00,
-    "image": "/images/kalip.jpg",
-    "description": "Yüksek taşıma kapasitesine sahip galvanizli H tipi iskele."
+    "name": "Minimalist Slogan Tişört",
+    "price": 249.99,
+    "image": "/images/tshirt-1.jpg",
+    "description": "Yüksek kaliteli pamuklu kumaştan üretilmiş, sade tasarımlı tişört. Günlük kullanım için ideal.",
+    "sizes": ["S", "M", "L", "XL"],
+    "colors": ["#ffffff", "#000000", "#c2c2c2"]
   },
   {
     "id": 2,
-    "name": "U Başlık",
-    "price": 85.00,
-    "image": "/images/kalip.jpg",
-    "description": "Düşey dikme üzerine konularak kalıp taşıma işlemini kolaylaştırır."
+    "name": "Grafik Desenli Tişört",
+    "price": 299.99,
+    "image": "/images/tshirt-2.jpg",
+    "description": "Özel baskılı grafik deseniyle dikkat çeken, modern kesimli tişört.",
+    "sizes": ["M", "L"],
+    "colors": ["#4a5568", "#a0aec0"]
   },
   {
     "id": 3,
-    "name": "Teleskopik Direk",
-    "price": 430.00,
-    "image": "/images/kalip.jpg",
-    "description": "Beton dökümü sırasında yük taşıma görevini üstlenen taşıyıcı direk."
+    "name": "Oversize Retro Tişört",
+    "price": 279.99,
+    "image": "/images/tshirt-3.jpg",
+    "description": "Retro desenli, rahat kesim oversize tişört.",
+    "sizes": ["L", "XL"],
+    "colors": ["#f6e05e", "#2d3748"]
   },
   {
     "id": 4,
-    "name": "Ahşap Plywood",
-    "price": 599.00,
-       "image": "/images/kalip.jpg",
-    "description": "Beton kalıplarında kullanılan, çok katmanlı suya dayanıklı kontrplak."
+    "name": "Sade Basic Tişört",
+    "price": 199.99,
+    "image": "/images/tshirt-4.jpg",
+    "description": "Gardırobun vazgeçilmezi olacak basic tişört modeli.",
+    "sizes": ["S", "M", "L"],
+    "colors": ["#e53e3e", "#3182ce"]
   },
   {
     "id": 5,
-    "name": "İksa Ayağı",
-    "price": 310.00,
-    "image": "/images/kalip.jpg",
-    "description": "Kalıpların düşey doğrultuda sabitlenmesini sağlar."
+    "name": "V Yaka Tişört",
+    "price": 219.99,
+    "image": "/images/tshirt-5.jpg",
+    "description": "Şıklığı ve rahatlığı bir arada sunan V yaka tişört.",
+    "sizes": ["M", "L", "XL"],
+    "colors": ["#1a202c", "#718096"]
   },
   {
     "id": 6,
-    "name": "Kalıp Yağı",
-    "price": 145.00,
-    "image": "/images/kalip.jpg",
-    "description": "Betonun kalıptan kolayca ayrılmasını sağlar."
+    "name": "Yazı Baskılı Tişört",
+    "price": 269.99,
+    "image": "/images/tshirt-6.jpg",
+    "description": "Tarzınızı yansıtan mesajlar içeren yazı baskılı tişört.",
+    "sizes": ["S", "M", "L", "XL"],
+    "colors": ["#000000", "#ffed4a"]
   },
   {
     "id": 7,
-    "name": "Dikme Kilidi",
-    "price": 42.00,
-    "image": "/images/kalip.jpg",
-    "description": "İskele dikmeleri arasında bağlantı kuran güvenlik elemanı."
+    "name": "Oversize Renkli Tişört",
+    "price": 299.99,
+    "image": "/images/tshirt-7.jpg",
+    "description": "Canlı renkleriyle enerjinizi yansıtan oversize tişört.",
+    "sizes": ["M", "L"],
+    "colors": ["#f56565", "#ed8936"]
   },
   {
     "id": 8,
-    "name": "Travers (Taşıyıcı Profil)",
-    "price": 280.00,
-    "image": "/images/kalip.jpg",
-    "description": "Yatay kalıp yükünü taşıyan metal profil."
+    "name": "Dikiş Detaylı Tişört",
+    "price": 289.99,
+    "image": "/images/tshirt-8.jpg",
+    "description": "Özgün dikiş detaylarıyla stilinize farklılık katın.",
+    "sizes": ["S", "M", "XL"],
+    "colors": ["#2b6cb0", "#f7fafc"]
   },
   {
     "id": 9,
-    "name": "Kalıp Bağlantı Takozu",
-    "price": 19.00,
-    "image": "/images/kalip.jpg",
-    "description": "İskele ve kalıp arasında bağlantı sağlar."
+    "name": "Kolej Temalı Tişört",
+    "price": 319.99,
+    "image": "/images/tshirt-9.jpg",
+    "description": "Kolej tarzı baskısıyla dikkat çeken casual tişört.",
+    "sizes": ["M", "L", "XL"],
+    "colors": ["#ecc94b", "#805ad5"]
   },
   {
     "id": 10,
-    "name": "Tripod",
-    "price": 160.00,
-    "image": "/images/kalip.jpg",
-    "description": "Teleskopik direkleri dengede tutmak için kullanılır."
+    "name": "Cep Detaylı Tişört",
+    "price": 239.99,
+    "image": "/images/tshirt-10.jpg",
+    "description": "Ön cep detayıyla farklı ve kullanışlı bir tişört.",
+    "sizes": ["S", "M"],
+    "colors": ["#68d391", "#e2e8f0"]
   },
   {
     "id": 11,
-    "name": "Kalıp Paneli",
-    "price": 870.00,
-    "image": "/images/kalip.jpg",
-    "description": "Beton yüzeyini oluşturmak için kullanılan düz yüzeyli panel."
+    "name": "Basic Renkli Tişört",
+    "price": 199.99,
+    "image": "/images/tshirt-11.jpg",
+    "description": "Günlük kullanıma uygun canlı renklerde basic tişört.",
+    "sizes": ["M", "L", "XL"],
+    "colors": ["#edf2f7", "#4a5568"]
   },
   {
     "id": 12,
-    "name": "Çektirme (Kelepçe)",
-    "price": 24.00,
-    "image": "/images/kalip.jpg",
-    "description": "İskele bağlantılarının sağlamlaştırılmasını sağlar."
+    "name": "Yarım Kollu Tişört",
+    "price": 229.99,
+    "image": "/images/tshirt-12.jpg",
+    "description": "Yarım kollu, yaz aylarında ferah kullanım sağlar.",
+    "sizes": ["S", "L"],
+    "colors": ["#cbd5e0", "#f6ad55"]
   },
   {
     "id": 13,
-    "name": "Takviyeli Plywood",
-    "price": 675.00,
-    "image": "/images/kalip.jpg",
-    "description": "Daha uzun ömürlü ve yüksek dayanıklı plywood türü."
+    "name": "Desenli Polo Yaka Tişört",
+    "price": 349.99,
+    "image": "/images/tshirt-13.jpg",
+    "description": "Polo yaka, zarif desenli tişört ile şıklık ön planda.",
+    "sizes": ["M", "L", "XL"],
+    "colors": ["#4299e1", "#fefcbf"]
   },
   {
     "id": 14,
-    "name": "Düz Başlık",
-    "price": 80.00,
-    "image": "/images/kalip.jpg",
-    "description": "Teleskopik direk üzerine yerleştirilen taşıyıcı başlık."
+    "name": "Keten Karışımlı Tişört",
+    "price": 289.99,
+    "image": "/images/tshirt-14.jpg",
+    "description": "Yumuşak dokuya sahip keten karışımı ile özel üretim.",
+    "sizes": ["S", "M", "L"],
+    "colors": ["#e9d8fd", "#c6f6d5"]
   },
   {
     "id": 15,
-    "name": "Yatay Bağlantı Elemanı",
-    "price": 38.00,
-    "image": "/images/kalip.jpg",
-    "description": "İskele sisteminde yatay bağlantı sağlar."
+    "name": "Spor Kesim Tişört",
+    "price": 219.99,
+    "image": "/images/tshirt-15.jpg",
+    "description": "Spor aktiviteleri için tasarlanmış nefes alabilir kumaş.",
+    "sizes": ["M", "L", "XL"],
+    "colors": ["#9f7aea", "#fbd38d"]
   },
   {
     "id": 16,
-    "name": "İnşaat Çivisi (10 kg)",
-    "price": 195.00,
-    "image": "/images/kalip.jpg",
-    "description": "Kalıp montajı sırasında kullanılan dayanıklı çivi."
+    "name": "Baskılı Tişört",
+    "price": 269.99,
+    "image": "/images/tshirt-16.jpg",
+    "description": "Stil sahibi baskılarla şıklığı yakalayın.",
+    "sizes": ["S", "M", "L"],
+    "colors": ["#f472b6", "#2c5282"]
   },
   {
     "id": 17,
-    "name": "Köşe Takozu",
-    "price": 22.00,
-        "image": "/images/kalip.jpg",
-    "description": "Ahşap kalıplarda köşelerin sabitlenmesini sağlar."
+    "name": "Ekstra Yumuşak Tişört",
+    "price": 259.99,
+    "image": "/images/tshirt-17.jpg",
+    "description": "Cildinize dost, ekstra yumuşak pamuklu kumaş.",
+    "sizes": ["M", "XL"],
+    "colors": ["#f0fff4", "#553c9a"]
   },
   {
     "id": 18,
-    "name": "Yükseklik Ayar Somunu",
-    "price": 12.00,
-     "image": "/images/kalip.jpg",
-    "description": "Teleskopik direğin yüksekliğini hassas şekilde ayarlamak için."
+    "name": "Düğme Detaylı Tişört",
+    "price": 279.99,
+    "image": "/images/tshirt-18.jpg",
+    "description": "Ön kısmındaki düğmeler ile klasik tarza gönderme.",
+    "sizes": ["S", "L", "XL"],
+    "colors": ["#d53f8c", "#fefcbf"]
   },
   {
     "id": 19,
-    "name": "Ayarlı Ayak",
-    "price": 210.00,
-    "image": "/images/kalip.jpg",
-    "description": "Zemin dengesizliğini telafi etmek için kullanılır."
+    "name": "Asimetrik Kesim Tişört",
+    "price": 309.99,
+    "image": "/images/tshirt-19.jpg",
+    "description": "Asimetrik kesimiyle dikkat çeken modern tasarım.",
+    "sizes": ["M", "L"],
+    "colors": ["#ecc94b", "#4a5568"]
   },
   {
     "id": 20,
-    "name": "Çift Taraflı Kalıp Paneli",
-    "price": 950.00,
-    "image": "/images/kalip.jpg",
-    "description": "İki taraflı yüzey dökümüne uygun, yüksek dayanımlı panel."
+    "name": "Kolsuz Tişört",
+    "price": 189.99,
+    "image": "/images/tshirt-20.jpg",
+    "description": "Yaz aylarının vazgeçilmezi, rahat kolsuz tişört.",
+    "sizes": ["S", "M", "L"],
+    "colors": ["#e53e3e", "#f7fafc"]
   }
 ]
