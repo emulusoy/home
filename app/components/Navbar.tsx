@@ -27,12 +27,11 @@ const Navbar: React.FC<HeaderProps> = ({ cartItemCount, onGoToCart }) => {
   return (
     <nav className="fixed top-0 left-0 right-0 bg-white shadow-md z-50 text-gray-800">
       <div className="container mx-auto px-6 py-4 flex justify-between items-center">
-        {/* Logo */}
         <Link href="/" className="text-2xl font-extrabold text-gray-900 tracking-wider">
           emu/case
         </Link>
         
-        {/* Masaüstü Menüsü */}
+
         <div className="hidden lg:flex items-center gap-10 font-medium">
           {navItems.map((item) => (
             <Link
@@ -44,8 +43,6 @@ const Navbar: React.FC<HeaderProps> = ({ cartItemCount, onGoToCart }) => {
             </Link>
           ))}
         </div>
-
-        {/* Sağ Taraftaki İkonlar */}
         <div className="flex items-center gap-6">
           <FaUser className="cursor-pointer text-xl text-gray-700 hover:text-purple-600 transition" title="Üye Ol" />
 
@@ -67,8 +64,6 @@ const Navbar: React.FC<HeaderProps> = ({ cartItemCount, onGoToCart }) => {
               </div>
             )}
           </div>
-
-          {/* Mobil Menü Butonu */}
           <div className="lg:hidden ml-4">
             <button onClick={toggleMenu} className="text-gray-700 text-2xl focus:outline-none">
               {menuOpen ? <FaTimes /> : <FaBars />}
@@ -76,26 +71,23 @@ const Navbar: React.FC<HeaderProps> = ({ cartItemCount, onGoToCart }) => {
           </div>
         </div>
       </div>
-
-      {/* Mobil Açılır Menü */}
       <div
-        className={`lg:hidden absolute top-full left-0 right-0 bg-white shadow-md transition-transform duration-300 ${
-          menuOpen ? 'translate-y-0 opacity-100' : '-translate-y-full opacity-0'
-        }`}
+  className={`lg:hidden absolute top-full left-0 right-0 bg-white shadow-md transition-transform duration-300
+    ${menuOpen ? 'translate-y-0 opacity-100 pointer-events-auto' : '-translate-y-full opacity-0 pointer-events-none'}`}
+>
+  <div className="flex flex-col items-center py-4">
+    {navItems.map((item) => (
+      <Link
+        key={item.name}
+        href={item.href}
+        className="block w-full text-center py-3 text-lg font-medium text-gray-700 hover:bg-gray-100 transition duration-300"
+        onClick={() => setMenuOpen(false)}  // toggle yerine kapat
       >
-        <div className="flex flex-col items-center py-4">
-          {navItems.map((item) => (
-            <Link
-              key={item.name}
-              href={item.href}
-              className="block w-full text-center py-3 text-lg font-medium text-gray-700 hover:bg-gray-100 transition duration-300"
-              onClick={toggleMenu}
-            >
-              {item.name}
-            </Link>
-          ))}
-        </div>
-      </div>
+        {item.name}
+      </Link>
+    ))}
+  </div>
+</div>
     </nav>
   );
 };
