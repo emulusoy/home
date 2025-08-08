@@ -12,7 +12,7 @@
     "id": 2,
     "name": "Grafik Desenli Tişört",
     "price": 299.99,
-    "image": "/images/tshirt-2.jpg",
+    "image": "/images/tshirt-1.jpg",
     "description": "Özel baskılı grafik deseniyle dikkat çeken, modern kesimli tişört.",
     "sizes": ["M", "L"],
     "colors": ["#4a5568", "#a0aec0"]
@@ -21,7 +21,7 @@
     "id": 3,
     "name": "Oversize Retro Tişört",
     "price": 279.99,
-    "image": "/images/tshirt-3.jpg",
+    "image": "/images/tshirt-1.jpg",
     "description": "Retro desenli, rahat kesim oversize tişört.",
     "sizes": ["L", "XL"],
     "colors": ["#f6e05e", "#2d3748"]
@@ -30,7 +30,7 @@
     "id": 4,
     "name": "Sade Basic Tişört",
     "price": 199.99,
-    "image": "/images/tshirt-4.jpg",
+    "image": "/images/tshirt-1.jpg",
     "description": "Gardırobun vazgeçilmezi olacak basic tişört modeli.",
     "sizes": ["S", "M", "L"],
     "colors": ["#e53e3e", "#3182ce"]
@@ -39,7 +39,7 @@
     "id": 5,
     "name": "V Yaka Tişört",
     "price": 219.99,
-    "image": "/images/tshirt-5.jpg",
+    "image": "/images/tshirt-1.jpg",
     "description": "Şıklığı ve rahatlığı bir arada sunan V yaka tişört.",
     "sizes": ["M", "L", "XL"],
     "colors": ["#1a202c", "#718096"]
@@ -48,7 +48,7 @@
     "id": 6,
     "name": "Yazı Baskılı Tişört",
     "price": 269.99,
-    "image": "/images/tshirt-6.jpg",
+    "image": "/images/tshirt-1.jpg",
     "description": "Tarzınızı yansıtan mesajlar içeren yazı baskılı tişört.",
     "sizes": ["S", "M", "L", "XL"],
     "colors": ["#000000", "#ffed4a"]
@@ -57,7 +57,7 @@
     "id": 7,
     "name": "Oversize Renkli Tişört",
     "price": 299.99,
-    "image": "/images/tshirt-7.jpg",
+   "image": "/images/tshirt-1.jpg",
     "description": "Canlı renkleriyle enerjinizi yansıtan oversize tişört.",
     "sizes": ["M", "L"],
     "colors": ["#f56565", "#ed8936"]
@@ -66,7 +66,7 @@
     "id": 8,
     "name": "Dikiş Detaylı Tişört",
     "price": 289.99,
-    "image": "/images/tshirt-8.jpg",
+    "image": "/images/tshirt-1.jpg",
     "description": "Özgün dikiş detaylarıyla stilinize farklılık katın.",
     "sizes": ["S", "M", "XL"],
     "colors": ["#2b6cb0", "#f7fafc"]
@@ -75,7 +75,7 @@
     "id": 9,
     "name": "Kolej Temalı Tişört",
     "price": 319.99,
-    "image": "/images/tshirt-9.jpg",
+    "image": "/images/tshirt-1.jpg",
     "description": "Kolej tarzı baskısıyla dikkat çeken casual tişört.",
     "sizes": ["M", "L", "XL"],
     "colors": ["#ecc94b", "#805ad5"]
@@ -84,7 +84,7 @@
     "id": 10,
     "name": "Cep Detaylı Tişört",
     "price": 239.99,
-    "image": "/images/tshirt-10.jpg",
+    "image": "/images/tshirt-1.jpg",
     "description": "Ön cep detayıyla farklı ve kullanışlı bir tişört.",
     "sizes": ["S", "M"],
     "colors": ["#68d391", "#e2e8f0"]
@@ -93,7 +93,7 @@
     "id": 11,
     "name": "Basic Renkli Tişört",
     "price": 199.99,
-    "image": "/images/tshirt-11.jpg",
+    "image": "/images/tshirt-1.jpg",
     "description": "Günlük kullanıma uygun canlı renklerde basic tişört.",
     "sizes": ["M", "L", "XL"],
     "colors": ["#edf2f7", "#4a5568"]
@@ -102,7 +102,7 @@
     "id": 12,
     "name": "Yarım Kollu Tişört",
     "price": 229.99,
-    "image": "/images/tshirt-12.jpg",
+    "image": "/images/tshirt-1.jpg",
     "description": "Yarım kollu, yaz aylarında ferah kullanım sağlar.",
     "sizes": ["S", "L"],
     "colors": ["#cbd5e0", "#f6ad55"]
@@ -111,7 +111,7 @@
     "id": 13,
     "name": "Desenli Polo Yaka Tişört",
     "price": 349.99,
-    "image": "/images/tshirt-13.jpg",
+    "image": "/images/tshirt-1.jpg",
     "description": "Polo yaka, zarif desenli tişört ile şıklık ön planda.",
     "sizes": ["M", "L", "XL"],
     "colors": ["#4299e1", "#fefcbf"]
@@ -120,7 +120,7 @@
     "id": 14,
     "name": "Keten Karışımlı Tişört",
     "price": 289.99,
-    "image": "/images/tshirt-14.jpg",
+    "image": "/images/tshirt-1.jpg",
     "description": "Yumuşak dokuya sahip keten karışımı ile özel üretim.",
     "sizes": ["S", "M", "L"],
     "colors": ["#e9d8fd", "#c6f6d5"]
@@ -129,7 +129,7 @@
     "id": 15,
     "name": "Spor Kesim Tişört",
     "price": 219.99,
-    "image": "/images/tshirt-15.jpg",
+   "image": "/images/tshirt-1.jpg",
     "description": "Spor aktiviteleri için tasarlanmış nefes alabilir kumaş.",
     "sizes": ["M", "L", "XL"],
     "colors": ["#9f7aea", "#fbd38d"]
@@ -138,7 +138,7 @@
     "id": 16,
     "name": "Baskılı Tişört",
     "price": 269.99,
-    "image": "/images/tshirt-16.jpg",
+    "image": "/images/tshirt-1.jpg",
     "description": "Stil sahibi baskılarla şıklığı yakalayın.",
     "sizes": ["S", "M", "L"],
     "colors": ["#f472b6", "#2c5282"]
@@ -147,7 +147,7 @@
     "id": 17,
     "name": "Ekstra Yumuşak Tişört",
     "price": 259.99,
-    "image": "/images/tshirt-17.jpg",
+    "image": "/images/tshirt-1.jpg",
     "description": "Cildinize dost, ekstra yumuşak pamuklu kumaş.",
     "sizes": ["M", "XL"],
     "colors": ["#f0fff4", "#553c9a"]
@@ -156,7 +156,7 @@
     "id": 18,
     "name": "Düğme Detaylı Tişört",
     "price": 279.99,
-    "image": "/images/tshirt-18.jpg",
+    "image": "/images/tshirt-1.jpg",
     "description": "Ön kısmındaki düğmeler ile klasik tarza gönderme.",
     "sizes": ["S", "L", "XL"],
     "colors": ["#d53f8c", "#fefcbf"]
@@ -165,7 +165,7 @@
     "id": 19,
     "name": "Asimetrik Kesim Tişört",
     "price": 309.99,
-    "image": "/images/tshirt-19.jpg",
+    "image": "/images/tshirt-1.jpg",
     "description": "Asimetrik kesimiyle dikkat çeken modern tasarım.",
     "sizes": ["M", "L"],
     "colors": ["#ecc94b", "#4a5568"]
@@ -174,7 +174,7 @@
     "id": 20,
     "name": "Kolsuz Tişört",
     "price": 189.99,
-    "image": "/images/tshirt-20.jpg",
+    "image": "/images/tshirt-1.jpg",
     "description": "Yaz aylarının vazgeçilmezi, rahat kolsuz tişört.",
     "sizes": ["S", "M", "L"],
     "colors": ["#e53e3e", "#f7fafc"]
